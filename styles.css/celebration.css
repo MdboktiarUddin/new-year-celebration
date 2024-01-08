@@ -23,12 +23,22 @@
     height: 660px;
     margin-left: 15px;
     background-image:url('../images/Vectorrr.png');
+    padding: 0px 20px;
+    background-position:right;
+     image-rendering: auto;
 }
+   
 .banner-third-title{
     color: rgb(239, 239, 241);
     font-size: 75px;
     text-align:left;
     padding-left: 25px;
+}
+.banner-third-description{
+    width: 690px;
+    height: 60px;
+    color: aliceblue;
+    font-size: 20px;
 }
 .banner-subtitle{
     font-size: 60px;
