@@ -1,0 +1,9 @@
+.banner{
+    text-align: center;
+}
+.banner-first{
+    width: 1120px;
+    height: 400px;
+    color: rgb(173, 155, 119);
+    border: 1px solid lightskyblue;
+}
