@@ -1,25 +1,36 @@
-h2{
-    
-}
+
 .banner{
     text-align: center;
-    margin:20px 0px;
+    margin:10 0px;
 }
 .banner-first{
     width: 1320px;
     height: 660px;
     color: rgb(245, 244, 243);
     border: 1px solid lightskyblue;
-    background-image: url('../images/Banner\ Image.png');
-    
+    background-image: url('../images/Banner\ Image.png'); 
 }
-.banner-first > h2{
+.banner-title {
+    color:rgb(10, 17, 24);
+    font-size: 170px;
+}
+.banner-first h2{
     text-align: center;
 }
 .banner-subtitle{
-    font-size: 200px;
+    font-size: 60px;
     text-align: center;
     font-style: normal;
-    line-height: 155px;
-    width:632px;
+    line-height: 85px;
+    width:400px;
+}
+.discount{
+    color:red;
+    font-size: 40px;
+}
+.discount-dills{
+    color:red;
+}
+.discount-cata{
+    color: blue;
 }
