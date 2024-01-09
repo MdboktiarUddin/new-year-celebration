@@ -79,13 +79,23 @@
 .offer-section{
     width: 1320px;
     height: 660px;
-    color: rgb(226, 211, 196);  
+    color: rgb(226, 211, 196); 
+    justify-content: space-between; 
+}
+.div-seperate{
+    width:50% ;
+    float:right;
+    background-image: url(../images/Ellipse\ 1.png);
 }
 .offer-section-title{
     color: red;
-    font-size: 15px;
+    font-size: 25px;
 }
 .offer-section-top-title{
     color: black;
     font-size: 70px;
+}
+.year-title{
+    color: red;
+    font-size: 40px;
 }
