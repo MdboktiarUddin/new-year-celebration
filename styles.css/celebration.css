@@ -110,3 +110,9 @@
 .portfolio{
     margin-top: 300px;
 }
+.product-container{
+    display:flex;
+}
+.product-second-container{
+    display: flex;
+}
