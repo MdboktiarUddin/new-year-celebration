@@ -84,8 +84,11 @@
 }
 .div-seperate{
     width:50% ;
-    float:right;
+    float:left;
     background-image: url(../images/Ellipse\ 1.png);
+   background-repeat: no-repeat;
+   background-position:center;
+  
 }
 .offer-section-title{
     color: red;
@@ -98,4 +101,9 @@
 .year-title{
     color: red;
     font-size: 40px;
+}
+.holiday-section{
+    width: 1300px;
+    height: 733px;
+    text-align: center;
 }
