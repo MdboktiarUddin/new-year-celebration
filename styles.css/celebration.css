@@ -116,3 +116,12 @@
 .product-second-container{
     display: flex;
 }
+.subscribe-section{
+    text-align: center;
+}
+.subscribe-div{
+    width: 1330px;
+    height: 520px;
+    border-radius: 10px;
+    background: rgb(218, 195, 195);
+}
